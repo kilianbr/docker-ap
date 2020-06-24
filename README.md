@@ -1,3 +1,6 @@
+Forked from offlinehacker/docker-ap
+Link: https://github.com/offlinehacker/docker-ap
+
 # Docker container stack: hostap + dhcp server 
 
 This container starts wireless access point (hostap) and dhcp server in docker
